@@ -1,7 +1,7 @@
 import requests
 
 OWM_Endpoint = "http://api.openweathermap.org/data/2.5/forecast"
-api_key = "42e0ff82d7e4f6f2b750b24d2ba6953d"
+api_key = "julio"
 
 parameters = {
     "lat" : -23.550520,
